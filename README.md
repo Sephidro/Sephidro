@@ -1,8 +1,8 @@
 # Xavier | Systems Builder & Automation Engineer
 
-**I turn operational chaos into automated revenue.**
+**I turn lots of repeated actions into one simple action...Usually**
 
-I specialize in building custom automation systems that solve real business problems. Over 9 years in operations and technical roles, I've developed tools that recovered $500K+ in lost revenue, automated compliance workflows, and saved hundreds of hours in manual work.
+I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone. I'm a huge fan of building cool things that people can use to make money. When I'm not building tools to simplify my life, I can be found playing basketball, playing video games, and spending time with my beautiful wife and all of our teacher friends. I specialize in building custom systems and building websites that solve problems. Over 9 years in operations and technical roles, I've developed tools that recovered $500K+ in lost revenue, automated compliance workflows, and saved hundreds of hours in manual work.
 
 ## What I Build
 
@@ -15,7 +15,7 @@ I specialize in building custom automation systems that solve real business prob
 - **Languages**: JavaScript, Google Apps Script, Python, SQL
 - **Frameworks**: React, Node.js, Next.js
 - **Tools**: Google Workspace APIs, Gmail API, Sheets API, REST APIs
-- **Automation Platforms**: Google Apps Script, Zapier, Make
+- **Automation Platforms**: Google Apps Script, Zapier
 
 ## Featured Projects
 
@@ -24,10 +24,6 @@ Google Sheets-based CRM system for charter schools. Automated welcome emails, fo
 
 ### [WordPress-Update-script](https://github.com/Sephidro/WordPress-Update-script)
 Governance document automation tool that converts Google Drive files to WordPress posts automatically. Solves compliance "drudgery" for administrators who need to publish meeting minutes and agendas regularly.
-
-## Currently Exploring
-
-Solutions Engineering and Revenue Operations roles where I can help teams scale through smart automation and systems thinking.
 
 ## Let's Connect
 
