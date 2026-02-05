@@ -20,7 +20,7 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone. I'm a hu
 ## Featured Projects
 
 ### [revops-automation-toolkit](https://github.com/Sephidro/revops-automation-toolkit)
-Google Sheets-based CRM system for charter schools. Automated welcome emails, follow-up sequences, and board governance publishing. **Key impact: Reduced application abandonment from 40% to 15%, recovering $500K+ in Year 1.**
+Google Sheets-based CRM system for charter schools. Automated welcome emails and follow-up sequences. **Key impact: Reduced application abandonment from 40% to 15%, recovering $500K+ in Year 1.**
 
 ### [WordPress-Update-script](https://github.com/Sephidro/WordPress-Update-script)
 Governance document automation tool that converts Google Drive files to WordPress posts automatically. Solves compliance "drudgery" for administrators who need to publish meeting minutes and agendas regularly.
