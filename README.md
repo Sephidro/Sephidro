@@ -12,10 +12,11 @@ I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone. I'm a hu
 - Data pipelines and workflow automation
 
 **Technical Skills**
-- **Languages**: JavaScript, Google Apps Script, Python, SQL
+- **Languages**: JavaScript, Google Apps Script, HTML
 - **Frameworks**: React, Node.js, Next.js
 - **Tools**: Google Workspace APIs, Gmail API, Sheets API, REST APIs
-- **Automation Platforms**: Google Apps Script, Zapier
+- **Automation Platforms**: Google Apps Script, Zapier, Highlevel
+- **Website CMS**: Wordpress, Wix, Replit, Beacons, Stan
 
 ## Featured Projects
 
