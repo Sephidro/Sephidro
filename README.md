@@ -2,7 +2,7 @@
 
 **I turn lots of repeated actions into one simple action...Usually**
 
-I'm from the USA 🇺🇸, currently in the Eastern Standard Time Zone. I'm a huge fan of building cool things that people can use to make money. When I'm not building tools to simplify my life, I can be found playing basketball, playing video games, and spending time with my beautiful wife and all of our teacher friends. I specialize in building custom systems and building websites that solve problems. Over 9 years in operations and technical roles, I've developed tools that recovered $500K+ in lost revenue, automated compliance workflows, and saved hundreds of hours in manual work.
+I'm from the USA, currently in the Eastern Standard Time Zone. I'm a huge fan of building cool things that people can use to make money. When I'm not building tools to simplify my life, I can be found playing basketball, playing video games, and spending time with my beautiful wife and all of our teacher friends. I specialize in building custom systems and building websites that solve problems. Over 9 years in operations and technical roles, I've developed tools that recovered $500K+ in lost revenue, automated compliance workflows, and saved hundreds of hours in manual work.
 
 ## What I Build
 
