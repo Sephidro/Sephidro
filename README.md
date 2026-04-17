@@ -29,7 +29,7 @@ Governance document automation tool that converts Google Drive files to WordPres
 ## Let's Connect
 
 - LinkedIn: https://www.linkedin.com/in/xaiverp/
-- Website: https://sephidro.dev (coming soon!)
+- Website: https://xaviers.work
 - Email: xavier.brandmanager@gmail.com
 
 ---
